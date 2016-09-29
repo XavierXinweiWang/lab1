@@ -1,0 +1,35 @@
+html {
+    background: url(https://static.pexels.com/photos/126590/pexels-photo-126590.jpeg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow: scroll;
+
+}
+
+body {
+  padding-top: 50px;
+  padding-bottom: 00px;
+}
+
+h1{
+    font-family: 'Abril Fatface';
+    position: relative;
+    margin-top: 9vw;
+    text-align: center;
+    font-size: 5vw;
+    text-shadow: 3px 3px 10px #000;
+    color: aliceblue
+}
+
+h4{
+    color: azure
+    
+}
+
+li,p,a{
+    color:bisque
+}
+
+
